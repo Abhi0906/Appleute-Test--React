@@ -1,0 +1,11 @@
+.listContainer {
+    background-color: azure;
+    height: auto;
+}
+
+.listContainer ul {
+    margin-left: 10rem;
+    font-size: 1.7rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
